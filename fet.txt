@@ -1,0 +1,40 @@
+**g/L (grams per liter)** means **grams of pesticide per liter of water**. It is the **concentration of pesticide to be mixed with water** before spraying on plants.
+
+---
+
+### **✅ Explanation of Pesticide Dosages**
+- **Chlorothalonil: 2.5 g/L**  
+  → **Mix 2.5 grams of Chlorothalonil in 1 liter of water.**
+  
+- **Mancozeb: 2 g/L**  
+  → **Mix 2 grams of Mancozeb in 1 liter of water.**
+  
+- **Azoxystrobin: 1 mL/L**  
+  → **Mix 1 milliliter of Azoxystrobin in 1 liter of water.**
+  
+- **Copper Oxychloride: 3 g/L**  
+  → **Mix 3 grams of Copper Oxychloride in 1 liter of water.**
+  
+- **Oxytetracycline: 2 g/L**  
+  → **Mix 2 grams of Oxytetracycline in 1 liter of water.**
+
+---
+
+### **✅ How to Prepare Pesticide Solution for Spraying**
+If you need **10 liters** of pesticide solution, multiply the dosage:
+- **Chlorothalonil (2.5 g/L)** → **2.5 g × 10 = 25 g for 10 liters of water**
+- **Mancozeb (2 g/L)** → **2 g × 10 = 20 g for 10 liters of water**
+- **Copper Oxychloride (3 g/L)** → **3 g × 10 = 30 g for 10 liters of water**
+
+---
+
+### **✅ Final Summary**
+| **Pesticide**          | **Dosage (per liter of water)** |
+|------------------------|--------------------------------|
+| **Chlorothalonil**     | **2.5 g/L** (2.5 grams per liter) |
+| **Mancozeb**           | **2 g/L** (2 grams per liter) |
+| **Azoxystrobin**       | **1 mL/L** (1 milliliter per liter) |
+| **Copper Oxychloride** | **3 g/L** (3 grams per liter) |
+| **Oxytetracycline**    | **2 g/L** (2 grams per liter) |
+
+🔹 **Mix the pesticide in the correct ratio with water before spraying on tomato plants.** 🌱💦
